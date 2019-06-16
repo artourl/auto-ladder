@@ -1,0 +1,5 @@
+{
+  "listen":":29900",
+  "target":"0.0.0.0:8888",
+  "key":"another-secret"
+}
